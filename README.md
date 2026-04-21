@@ -14,3 +14,4 @@ A modern fitness tracking app built using Expo (React Native).
 ## Run Locally
 npm install
 npx expo start
+![App Screenshot](./assets/images/scrn-app.png)
